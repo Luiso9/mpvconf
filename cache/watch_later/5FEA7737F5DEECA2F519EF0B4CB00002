@@ -1,0 +1,5 @@
+start=1393.644000
+volume=50.000000
+gamma=-1.000000
+af=lavfi=graph=%26%loudnorm=I=-14:TP=-3:LRA=4
+sid=2
